@@ -1,4 +1,4 @@
-package org.example.demo;
+package com.example.demo;
 
 public interface Printer {
     void print(String message);
